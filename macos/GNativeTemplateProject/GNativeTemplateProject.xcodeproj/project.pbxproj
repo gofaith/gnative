@@ -15,6 +15,7 @@
 		B57D158F2A61A43A00CE934B /* Src.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B57D158E2A61A43A00CE934B /* Src.xcframework */; };
 		B5DA082D2A61A58B009D396D /* GNativeWindow.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DA082C2A61A58B009D396D /* GNativeWindow.swift */; };
 		B5DA082F2A61A6E8009D396D /* GNativeMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DA082E2A61A6E8009D396D /* GNativeMessage.swift */; };
+		B5DA08312A62558B009D396D /* GNativeDom.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DA08302A62558B009D396D /* GNativeDom.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		B57D158E2A61A43A00CE934B /* Src.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Src.xcframework; sourceTree = "<group>"; };
 		B5DA082C2A61A58B009D396D /* GNativeWindow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GNativeWindow.swift; sourceTree = "<group>"; };
 		B5DA082E2A61A6E8009D396D /* GNativeMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GNativeMessage.swift; sourceTree = "<group>"; };
+		B5DA08302A62558B009D396D /* GNativeDom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GNativeDom.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				B56EB7992A5DE77E00DF6939 /* AppDelegate.swift */,
 				B56EB7A82A5DE7DC00DF6939 /* main.swift */,
 				B56EB79B2A5DE77E00DF6939 /* ViewController.swift */,
+				B5DA08302A62558B009D396D /* GNativeDom.swift */,
 				B5DA082C2A61A58B009D396D /* GNativeWindow.swift */,
 				B5DA082E2A61A6E8009D396D /* GNativeMessage.swift */,
 				B56EB7AA2A5DE84300DF6939 /* SwiftUIView.swift */,
@@ -147,6 +150,7 @@
 				B56EB79A2A5DE77E00DF6939 /* AppDelegate.swift in Sources */,
 				B5DA082F2A61A6E8009D396D /* GNativeMessage.swift in Sources */,
 				B56EB7AB2A5DE84300DF6939 /* SwiftUIView.swift in Sources */,
+				B5DA08312A62558B009D396D /* GNativeDom.swift in Sources */,
 				B5DA082D2A61A58B009D396D /* GNativeWindow.swift in Sources */,
 				B56EB7A92A5DE7DC00DF6939 /* main.swift in Sources */,
 			);
